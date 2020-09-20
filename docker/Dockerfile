@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2020 Matteo Ingrosso
+
 FROM nvcr.io/nvidia/l4t-pytorch:r32.4.3-pth1.6-py3
 
 # Create the directory for the project and proper tree folder
